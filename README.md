@@ -41,4 +41,4 @@ All materials are available at: [https://github.com/GabrielBayle/Solving-conflic
 
 ---
 
-For any questions or issues related to this repository, please contact [Gabriel Bayle](https://sites.google.com/view/gabrielbayle/welcome) at b*****.g*******[@]gmail.com.
+For any questions or issues related to this repository, please contact [Gabriel Bayle](https://sites.google.com/view/gabrielbayle/welcome) at g*******.bayle.econ[@]gmail.com.
